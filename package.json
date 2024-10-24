@@ -1,0 +1,25 @@
+{
+  "name": "template_react",
+  "version": "1.0.0",
+  "description": "template react monorepo",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aikofr/template_react.git"
+  },
+  "author": "Aiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aikofr/template_react/issues"
+  },
+  "homepage": "https://github.com/Aikofr/template_react#readme",
+  "devDependencies": {
+      "@biomejs/biome": "1.8.3" 
+  }
+}
